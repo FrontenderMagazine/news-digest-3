@@ -93,4 +93,4 @@ JavaScript.
 [10]: https://youtu.be/af4ZQJ14yu8
 
 [inline svg]: img/inline-svg.jpg "inline svg"
-[layers compose]: img/layers-compose "layers compose"
+[layers compose]: img/layers-compose.png "layers compose"
